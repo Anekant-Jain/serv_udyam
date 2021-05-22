@@ -28,6 +28,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.3
+  carousel_slider: ^3.0.0
+  firebase_core: ^0.7.0
+  firebase_auth: ^0.20.0
+  cloud_firestore: ^0.16.0
+
+
 
 dev_dependencies:
   flutter_test:
@@ -47,6 +53,9 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
       - slogo.png
+      - Image2.png
+      - Image1.png
+      - Images3.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
